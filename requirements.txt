@@ -1,0 +1,8 @@
+selenium
+python-dotenv
+google
+google-generativeai
+fpdf
+colorama
+pandas
+
